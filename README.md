@@ -14,3 +14,7 @@ B. Buat program untuk membuat daftar tim sepakbola yang memiliki atribut
    setiap bahasa (C++, PHP, Python dan Java)!
  
 //Penjelasan latihan B
+
+disana terdapat masukan dan keluaran sesuai masing masing bahasa (kecuali PHP), dimana user harus memasukan nama tim, negara, tahun berdiri, serta pemain,
+didalam atribut pemain saya menambahkan opsi berapa banyak pemain yang ingin di masukan sesuai keinginan user, lalu saya menambahkan 1 atribut tambahan  
+yaitu atribut julukan, sisanya saya hanya memainkan keluarannya saja, terimakasih
